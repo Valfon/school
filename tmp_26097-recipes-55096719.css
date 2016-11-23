@@ -1,0 +1,55 @@
+/*recipes.css style*/
+
+nav {
+    background: darkgrey;
+    width: 15em;
+}
+            
+nav ul {
+    padding-left: 25px;
+}
+            
+body {
+    margin: 0;
+    background-color: red;
+}
+        
+img {
+    border: 5px solid black;
+    padding: 5px;
+}
+
+img {
+    width: 250px;
+}
+
+article {
+    margin-left: 40px;
+}
+        
+h1 {
+    background: blue;
+    text-align: center;
+    margin: 0;
+}
+
+/*table*/
+
+table {
+    margin-left: 2em;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+table, th, td { 
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.ingredient {
+    text-align: left;
+}
+
+.amount {
+    text-align: right;
+}
